@@ -1,0 +1,26 @@
+# Python virtual environments & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.cache/
+
+# Node dependencies & Next.js cache
+node_modules/
+frontend/.next/
+frontend/out/
+.next/
+out/
+
+# Environment variables & database state
+.env
+.env.local
+.env.*.local
+backend/app/db.json
+
+# Local temp files / system files
+.DS_Store
+Thumbs.db
