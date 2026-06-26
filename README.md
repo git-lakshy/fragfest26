@@ -2,7 +2,7 @@
 
 # Nayana.ai
 
-### Answer Engine Optimization for the AI-native web.
+### The search console AI-native web ERA.
 
 </div>
 
